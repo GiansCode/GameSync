@@ -1,0 +1,4 @@
+main: codes.goblom.gamesync.bukkit.BukkitPlugin
+author: Goblom
+version: 0.1
+name: Game(B)Sync

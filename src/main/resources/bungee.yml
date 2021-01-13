@@ -1,0 +1,5 @@
+main: codes.goblom.gamesync.proxy.ProxyPlugin
+author: Goblom
+version: 0.1
+name: Game(A)Sync
+depend: [RedisBungee]
